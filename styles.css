@@ -76,5 +76,13 @@ button:hover{
     margin: 0.4rem;
 }
 
+.home-btn{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+}
 
 
